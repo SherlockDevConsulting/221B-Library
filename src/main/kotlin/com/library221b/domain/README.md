@@ -1,0 +1,1 @@
+Domain layer: contains enterprise-wide business rules and models. Keep it free of framework dependencies.
