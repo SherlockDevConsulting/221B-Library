@@ -1,1 +1,0 @@
-Application layer: orchestrates use cases. Depends on domain, not on infrastructure.
